@@ -53,3 +53,9 @@ A list of awesome spatial repositories.
 ##Misc.
 * https://github.com/mbloch/mapshaper
 * https://github.com/johnjreiser/chupaESRI
+
+
+To Do:  
+1. Add snippet or preview from repo  
+2. Add a short code snippet showing use  
+3. Add small graphic of out from number 2  
