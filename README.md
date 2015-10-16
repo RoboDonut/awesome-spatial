@@ -1,6 +1,6 @@
 # awesome-spatial
 
-A list of awesome spatial repositories. 
+A list of [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) spatial repositories. 
 ***
 
 ## Analysis
