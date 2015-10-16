@@ -19,6 +19,8 @@ A list of [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.
 ## Database
 * https://github.com/mapbox/postgis-vt-util
 * https://github.com/planetopendata/awesome-sqlite
+* https://github.com/neo4j-contrib/spatial
+* https://github.com/tiepologian/neospatial-py
 
 ## Web
 * https://github.com/spatialdev/PGRestAPI
@@ -28,6 +30,7 @@ A list of [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.
 * https://github.com/odoe/generator-arcgis-js-app
 * https://github.com/cmv/cmv-app
 * https://github.com/cmv/cmv-contrib-widgets
+* https://github.com/SpatialServer/Leaflet.MapboxVectorTile
 
 ## Visualization
 * https://github.com/python-visualization/folium
