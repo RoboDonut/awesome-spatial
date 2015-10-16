@@ -1,7 +1,6 @@
 # awesome-spatial
 
 A list of awesome spatial repositories. 
-
 ***
 
 ## Analysis
@@ -11,9 +10,11 @@ A list of awesome spatial repositories.
 * https://github.com/JuliaGeo/LibGEOS.jl
 * https://github.com/pysal/pysal/
 * https://github.com/Toblerity/Fiona
-* https://github.com/Toblerity/Shapely
+* https://github.com/Toblerity/Shapely  
+
 ### Network
 * https://github.com/UDST/pandana
+* https://github.com/valhalla/thor
 
 ## Database
 * https://github.com/mapbox/postgis-vt-util
@@ -24,6 +25,9 @@ A list of awesome spatial repositories.
 * https://github.com/mapbox/geojson-vt
 * https://github.com/tedsteiner/OpenStreetMap.jl
 * https://github.com/JasonSanford/tileify-ags
+* https://github.com/odoe/generator-arcgis-js-app
+* https://github.com/cmv/cmv-app
+* https://github.com/cmv/cmv-contrib-widgets
 
 ## Visualization
 * https://github.com/python-visualization/folium
