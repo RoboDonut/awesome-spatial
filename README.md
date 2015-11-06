@@ -36,6 +36,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/cmv/cmv-contrib-widgets
 * https://github.com/SpatialServer/Leaflet.MapboxVectorTile
 * https://github.com/nickcam/FlareClusterLayer
+* https://github.com/steveoh/esrislurp
 
 ## Visualization
 * https://github.com/python-visualization/folium
