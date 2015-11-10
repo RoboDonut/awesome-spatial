@@ -19,6 +19,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 ### Network
 * https://github.com/UDST/pandana
 * https://github.com/valhalla/thor
+* https://github.com/mapzen/on-the-road
 
 ## Database
 * https://github.com/mapbox/postgis-vt-util
@@ -37,6 +38,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/SpatialServer/Leaflet.MapboxVectorTile
 * https://github.com/nickcam/FlareClusterLayer
 * https://github.com/steveoh/esrislurp
+* https://github.com/mgd722/decode-google-maps-polyline
 
 ## Visualization
 * https://github.com/python-visualization/folium
