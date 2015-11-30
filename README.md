@@ -14,7 +14,8 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/JuliaGeo/LibGEOS.jl
 * https://github.com/pysal/pysal/
 * https://github.com/Toblerity/Fiona
-* https://github.com/Toblerity/Shapely  
+* https://github.com/Toblerity/Shapely 
+* https://github.com/tmcw/awesome-geojson
 
 ### Network
 * https://github.com/UDST/pandana
@@ -39,6 +40,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/nickcam/FlareClusterLayer
 * https://github.com/steveoh/esrislurp
 * https://github.com/mgd722/decode-google-maps-polyline
+* https://github.com/mapsme/omim/
 
 ## Visualization
 * https://github.com/python-visualization/folium
@@ -64,6 +66,9 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 ##Misc.
 * https://github.com/mbloch/mapshaper
 * https://github.com/johnjreiser/chupaESRI
+* https://github.com/haoliangyu/ares (desktop raster editing)
+* https://github.com/mapbox/vector-tile-spec/ 
+* https://github.com/gdherbert/DataPillager (extract data from a feature service)
 
 
 To Do:  
