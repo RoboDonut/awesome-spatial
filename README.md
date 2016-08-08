@@ -2,7 +2,7 @@
 
 A list of [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) spatial repositories. 
 
-This curated list is compiled from discovered and used repositories as well as user contirbutions from https://gisdevs.slack.com/. Pull requests and suggestions (via issue tracking) are welcome.
+This curated list is compiled from discovered and used repositories as well as user contributions from https://gisdevs.slack.com/. Pull requests and suggestions (via issue tracking) are welcome.
 
 In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) only awesome repositories are added. That said spatial is awesome so, take ["awesome"](https://github.com/sindresorhus/awesome/blob/master/awesome.md) with a grain of salt...
 ***
