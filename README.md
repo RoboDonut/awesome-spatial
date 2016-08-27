@@ -1,6 +1,6 @@
 # awesome-spatial
 
-A list of [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) spatial repositories. 
+A list of [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) spatial repositories.
 
 This curated list is compiled from discovered and used repositories as well as user contirbutions from https://gisdevs.slack.com/. Pull requests and suggestions (via issue tracking) are welcome.
 
@@ -14,7 +14,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/JuliaGeo/LibGEOS.jl
 * https://github.com/pysal/pysal/
 * https://github.com/Toblerity/Fiona
-* https://github.com/Toblerity/Shapely 
+* https://github.com/Toblerity/Shapely
 * https://github.com/tmcw/awesome-geojson
 
 ### Network
@@ -67,8 +67,9 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/mbloch/mapshaper
 * https://github.com/johnjreiser/chupaESRI
 * https://github.com/haoliangyu/ares (desktop raster editing)
-* https://github.com/mapbox/vector-tile-spec/ 
+* https://github.com/mapbox/vector-tile-spec/
 * https://github.com/gdherbert/DataPillager (extract data from a feature service)
+* https://github.com/mapbox/csv2geojson
 
 
 To Do:  
