@@ -63,7 +63,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/kjordahl/SciPy-Tutorial-2015
 * https://github.com/dwtkns/gdal-cheat-sheet
 
-##Misc.
+## Misc.
 * https://github.com/mbloch/mapshaper
 * https://github.com/johnjreiser/chupaESRI
 * https://github.com/haoliangyu/ares (desktop raster editing)
