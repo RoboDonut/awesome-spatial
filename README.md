@@ -18,6 +18,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/tmcw/awesome-geojson
 * https://github.com/ungarj/mapchete (divide data for processing)
 * https://github.com/iThinker/CheapRulerIOS (measure stuff, cheaply (iOS))
+* https://github.com/cschwarz/wkx (WKT/WKB/EWKT/EWKB/TWKB/GeoJSON parser, javascript)
 
 ### Network
 * https://github.com/UDST/pandana
@@ -30,9 +31,11 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/neo4j-contrib/spatial
 * https://github.com/tiepologian/neospatial-py
 * https://github.com/dmfenton/winnow (apply sql to geojson in memory)
+* https://github.com/mraad/spark-gdb (parse Esri File Geodatabase with Apache Spark)
 
 ## Data conversion
 * https://github.com/mapbox/csv2geojson (csv to geojson)
+* https://github.com/koopjs/GeoXForm (transform large streams of geojson into csv, kml, shapefile and other formats)
 
 ## Web
 * https://github.com/spatialdev/PGRestAPI
@@ -74,6 +77,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/ungarj/tilematrix (handle tile pyramids)
 * https://github.com/geo-data/gdal-docker (raster analysis in Docker)
 * https://github.com/ibamacsr/sentinelsat  (find and download Sentinel satellite images)
+* https://github.com/oyvindym/earth-observation-api (Earth Observation data over various APIs, samples)
 
 ## Tutorials and Cheat sheets
 * https://github.com/sgillies/frs-cheat-sheet
@@ -81,7 +85,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/kjordahl/SciPy-Tutorial-2015
 * https://github.com/dwtkns/gdal-cheat-sheet
 
-##Misc.
+## Misc.
 * https://github.com/mbloch/mapshaper
 * https://github.com/johnjreiser/chupaESRI
 * https://github.com/haoliangyu/ares (desktop raster editing)
@@ -93,7 +97,8 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/mapbox/awesome-vector-tiles (Awesome List of Vector Tile related stuff)
 * https://github.com/ucd-cws/arcpy_metadata (Metadata editor)
 * https://github.com/JamesMilnerUK/lee-algorithm-js (maze solver)
-
+* https://github.com/nypl-spacetime/map-vectorizer (geographic polygon and attribute data extraction from maps )
+* https://github.com/stedolan/jq (json parser CLI)
 To Do:  
 1. Add snippet or preview from repo  
 2. Add a short code snippet showing use  
