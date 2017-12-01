@@ -76,7 +76,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/haoliangyu/node-qa-masker (node js produce masks from the Quality Assessment band of Landsat 8 OLI images, as well as MODIS land products)
 * https://github.com/ungarj/tilematrix (handle tile pyramids)
 * https://github.com/geo-data/gdal-docker (raster analysis in Docker)
-* https://github.com/ibamacsr/sentinelsat  (find and download Sentinel satellite images)
+* https://github.com/sentinelsat/sentinelsat  (find and download Copernicus Sentinel satellite images)
 * https://github.com/oyvindym/earth-observation-api (Earth Observation data over various APIs, samples)
 
 ## Tutorials and Cheat sheets
