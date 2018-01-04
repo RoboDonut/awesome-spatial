@@ -53,6 +53,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/dheerajchand/ubuntu-django-nginx-ansible (Django GIS project template)
 * https://github.com/mojodna/tessera (tilelive-based tile server)
 * https://github.com/pka/t-rex (vector tile server)
+* https://github.com/openmaptiles (vector tile server + map styles)
 
 ## Visualization
 * https://github.com/python-visualization/folium
@@ -99,6 +100,8 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/JamesMilnerUK/lee-algorithm-js (maze solver)
 * https://github.com/nypl-spacetime/map-vectorizer (geographic polygon and attribute data extraction from maps )
 * https://github.com/stedolan/jq (json parser CLI)
+* https://github.com/OSMNames/OSMNames (fulltext search on OSM data, ranked by related Wikpedia article popularity)
+
 To Do:  
 1. Add snippet or preview from repo  
 2. Add a short code snippet showing use  
